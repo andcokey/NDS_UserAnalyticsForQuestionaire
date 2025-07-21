@@ -1,0 +1,8 @@
+pandas
+numpy
+sentence-transformers
+scikit-learn
+matplotlib
+umap-learn
+
+#謎にファイル指定でインストールできず、pip install でインストールした
